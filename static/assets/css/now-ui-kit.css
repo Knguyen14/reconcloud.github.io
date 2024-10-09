@@ -6004,8 +6004,7 @@ img {
 }
 
 .page-header.page-header-small {
-  min-height: 30vh;
-  max-height: 440px;
+  min-height: 275px;
 }
 
 .page-header:before {
