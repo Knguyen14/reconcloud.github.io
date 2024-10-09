@@ -6007,10 +6007,6 @@ img {
   min-height: 275px;
 }
 
-.page-header:before {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-
 .page-header>.container {
   z-index: 2;
   padding-top: 12vh;
