@@ -6532,7 +6532,7 @@ img {
     margin-top: 0.3125rem;
   }
   .sidebar-collapse .navbar-collapse .navbar-nav:not(.navbar-logo) .nav-link:not(.btn) {
-    color: #FFFFFF !important;
+    color: #333 !important;
   }
   .sidebar-collapse .navbar-collapse .dropdown-menu .dropdown-item {
     color: #FFFFFF;
@@ -6608,7 +6608,7 @@ img {
     width: 22px;
     height: 1px;
     border-radius: 1px;
-    background: #FFFFFF;
+    background: #333;
   }
   .sidebar-collapse .navbar .navbar-toggler-bar+.navbar-toggler-bar {
     margin-top: 7px;
