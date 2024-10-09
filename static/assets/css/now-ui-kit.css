@@ -3639,7 +3639,7 @@ p {
 }
 
 .blockquote {
-  color: #22a9e0;
+  color: #333333;
   border-left: none;
   border: 1px solid #22a9e0;
   padding: 20px;
@@ -3648,18 +3648,18 @@ p {
 }
 
 .blockquote-header {
+  font-weight: bold;
   color: black;
 }
 
 .blockquote small {
-  color: #22a9e0;
+  color: #333333;
   font-size: 0.8571em;
-  text-transform: uppercase;
 }
 
 .blockquote.blockquote-primary {
   border-color: #22a9e0;
-  color: #22a9e0;
+  color: #333333;
   position: absolute;
   width: 275px;
   top: 376px;
@@ -3667,7 +3667,7 @@ p {
 }
 
 .blockquote.blockquote-primary small {
-  color: #22a9e0;
+  color: #333333;
 }
 
 .blockquote.blockquote-danger {
